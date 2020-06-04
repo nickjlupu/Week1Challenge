@@ -6,7 +6,9 @@ As shown in the chart titled “Outcomes Based on Goals” the rate of success i
 
 ![](OutcomesBasedOnGoalsChart.png)
 
+
 Looking at the success rate based on the month of the launch date, we see that the optimal time to launch a campaign is in late spring to early summer (May-June).  Fall and Winter (especially December) seem to be the worst time to launch a campaign.  
+
 
 ![](OutcomesBasedOnLaunchDateChart.png)
 
